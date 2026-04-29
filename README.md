@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hely Vachhani</h1>
-<h3 align="center">AI/ML Engineer | Data Science | Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Hely Vachhani</h1>
+<h3 align="left"> Aspiring AI/ML Engineer | Data Science | Software Developer</h3>
 
-<p align="center">
+<p align="left">
   Building intelligent systems & data-driven solutions 🚀
 </p>
 
@@ -12,7 +12,7 @@
 - 🎓 MTech Computer Science @ Ahmedabad University  
 - 🤖 Passionate about AI, Machine Learning & Data Science  
 - 📊 Love solving real-world problems using data  
-- 💡 Strong interest in Computer Vision & NLP  
+- 💡 hands-on experience in ML, CV, DL & NLP  
 - 📈 Continuously improving technical and problem-solving skills  
 
 ---
@@ -69,15 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hely09&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hely09&theme=radical" />
-</p>
-
----
-
 ## 🎯 Career Objective  
 
 Seeking opportunities as:  
@@ -95,5 +86,5 @@ Seeking opportunities as:
 
 <p>
 <a href="https://github.com/hely09">GitHub</a> |
-<a href="#">LinkedIn</a>
+<a href="www.linkedin.com/in/hely-vachhani-545002229">LinkedIn</a>
 </p>
