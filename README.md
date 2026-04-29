@@ -82,7 +82,7 @@ Seeking opportunities as:
 ## 🌍 Connect With Me  
 
 📍 Ahmedabad, India  
-📧 hely.v@ahduni.edu.in  
+📧 helyvachhani2704@gmail.com  
 
 <p>
 <a href="https://github.com/hely09">GitHub</a> |
