@@ -1,97 +1,99 @@
-# 👋 Hi, I’m Hely Vachhani  
+<h1 align="center">Hi 👋, I'm Hely Vachhani</h1>
+<h3 align="center">AI/ML Engineer | Data Science | Software Developer</h3>
 
-💻 Aspiring AI/ML Engineer | Data Science | Python  
-
-Building intelligent systems and data-driven solutions  
+<p align="center">
+  Building intelligent systems & data-driven solutions 🚀
+</p>
 
 ---
 
 ## 🚀 About Me  
 
-I am a Computer Science postgraduate student at Ahmedabad University with strong interest in Artificial Intelligence, Machine Learning, and Data Science.  
-
-I enjoy solving real-world problems using data, building intelligent systems, and continuously improving my technical skills.  
-
-I have hands-on experience in machine learning, deep learning, computer vision, and data analysis through academic projects and internships.  
+- 🎓 MTech Computer Science @ Ahmedabad University  
+- 🤖 Passionate about AI, Machine Learning & Data Science  
+- 📊 Love solving real-world problems using data  
+- 💡 Strong interest in Computer Vision & NLP  
+- 📈 Continuously improving technical and problem-solving skills  
 
 ---
 
-## 🧰 Technical Skills  
+## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-- Python  
-- C  
-- SQL  
+`Python` `C` `SQL` `HTML` `CSS` `JavaScript`
 
 ### ⚙️ Frameworks & Libraries  
-- TensorFlow, Keras, PyTorch  
-- Scikit-learn  
-- OpenCV  
-- Pandas, NumPy  
-- Matplotlib, Seaborn, Plotly  
-- SpaCy, Sentence-BERT  
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV`  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+`SpaCy` `Sentence-BERT`
 
-### 🛠 Tools  
-- Flask  
-- Streamlit  
-- Git & GitHub  
-- Google Colab  
-- Postman  
+### 🔧 Tools  
+`Flask` `Streamlit` `Git` `GitHub` `Postman` `Google Colab`
 
 ---
 
 ## 📁 Featured Projects  
 
 ### 🎯 Multi-Object Tracking (ML + DL)
-- Improved tracking accuracy using classical and deep learning approaches  
-- Reduced ID switches and improved MOTA & IDF1  
-- Used CNN-based ReID and XGBoost  
+- Improved tracking performance (MOTA, IDF1)  
+- Reduced ID switches using CNN-based ReID  
+- Compared classical ML & deep learning approaches  
 
 ---
 
 ### 🧠 PCOS Detection (Deep Learning)
-- Built CNN and Vision Transformer models  
-- Used transfer learning and K-Fold validation  
-- Improved reliability of medical image classification  
+- Built CNN + Vision Transformer models  
+- Used transfer learning & K-Fold validation  
+- Improved medical image classification reliability  
 
 ---
 
 ### 🎮 Player Engagement Prediction
-- Predicted engagement levels using ML models  
+- Predicted engagement (Low/Medium/High)  
 - Applied clustering + Explainable AI  
-- Improved user behavior insights  
+- Generated behavioral insights for retention  
 
 ---
 
 ### 📊 AI Revenue Forecasting
-- Built ML model for business revenue prediction  
-- Used Random Forest + feature engineering  
+- Built Random Forest model for prediction  
+- Performed EDA & feature engineering  
 - Created dashboards using Streamlit & Plotly  
 
 ---
 
 ### 🌐 Portfolio Maker Website
-- Flask-based web app for creating portfolios  
-- Supports templates, image upload, and customization  
-- Built using HTML, CSS, JS, Bootstrap  
+- Flask-based portfolio builder  
+- Dynamic templates + image upload  
+- Responsive UI using Bootstrap  
 
 ---
 
-## 🎯 What I’m Looking For  
+## 📊 GitHub Stats  
 
-I am actively seeking opportunities as:  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hely09&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hely09&theme=radical" />
+</p>
+
+---
+
+## 🎯 Career Objective  
+
+Seeking opportunities as:  
 
 - AI/ML Engineer  
 - Data Scientist  
 - Software Engineer  
 
-Where I can apply my skills to build impactful solutions  
-
 ---
 
-## 🌍 Connect with Me  
+## 🌍 Connect With Me  
 
 📍 Ahmedabad, India  
 📧 hely.v@ahduni.edu.in  
 
-🔗 GitHub: https://github.com/hely09  
+<p>
+<a href="https://github.com/hely09">GitHub</a> |
+<a href="#">LinkedIn</a>
+</p>
