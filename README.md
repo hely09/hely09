@@ -86,5 +86,5 @@ Seeking opportunities as:
 
 <p>
 <a href="https://github.com/hely09">GitHub</a> |
-<a href="www.linkedin.com/in/hely-vachhani-545002229">LinkedIn</a>
+<a href="https://www.linkedin.com/in/hely-vachhani-545002229">LinkedIn</a>
 </p>
