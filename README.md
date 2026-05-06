@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hely Vachhani</h1>
-<h3 align="left"> Aspiring AI/ML Engineer | Data Science | Software Developer</h3>
+<h3 align="left"> Aspiring AI/ML Engineer | Data Science </h3>
 
 <p align="left">
   Building intelligent systems & data-driven solutions 🚀
@@ -74,8 +74,7 @@
 Seeking opportunities as:  
 
 - AI/ML Engineer  
-- Data Scientist  
-- Software Engineer  
+- Data Scientist   
 
 ---
 
